@@ -54,6 +54,15 @@ body {
   background-color: #FCF5C7;
   border: 2px solid #A44200;
 }
+a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
 
 
 
